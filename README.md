@@ -6,7 +6,7 @@ Android-приложение для чтения книг fb2, epub и txt. Чи
 
 **Сайт:** https://vladborow.github.io/BookTTS-releases/
 
-> Приложение готовится к выпуску. Первая версия появится здесь, в разделе **Releases**. Новости — в [Telegram](https://t.me/+CsO0uFzB8vkxMGY6).
+> Приложение готовится к выпуску. Первая версия появится здесь, в разделе **Releases**. Новости — в [Telegram](https://t.me/booktts).
 
 ## Что здесь лежит
 
@@ -42,6 +42,6 @@ Android-приложение для чтения книг fb2, epub и txt. Чи
 
 ## Связь
 
-- Telegram: https://t.me/+CsO0uFzB8vkxMGY6
+- Telegram: https://t.me/booktts
 - Почта: vlad1502653@gmail.com
 - Поддержать автора: [ЮMoney](https://yoomoney.ru/fundraise/1L8NVNTJQDB.261031)
