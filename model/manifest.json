@@ -1,0 +1,18 @@
+{
+  "version": "2026.11.01",
+  "packs": [
+    {
+      "id": "reader",
+      "url": "https://github.com/VladBorow/BookTTS-releases/releases/download/model-2026.11.01/sopro_bench_base.1.zip",
+      "size": 640953531,
+      "sha256": "e91bdbb5a7f213e3c589c10f67389c708408355d6dbb53c70c07e4d16a224eab"
+    }
+  ],
+  "changelog": [
+    {
+      "version": "2026.11.01",
+      "date": "2026-11-01",
+      "text": "Первая версия голосовой модели."
+    }
+  ]
+}
